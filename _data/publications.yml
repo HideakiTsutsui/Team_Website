@@ -1,5 +1,5 @@
 - title: "Sample–to-answer sensing technologies for nucleic acid preparation and detection in the field"
-  authors: "CW Liu, H Tsutsui"
+  authors: "CW Liu and H Tsutsui"
   venue: "SLAS technology"
   year: 2023
   volume: 28
@@ -9,7 +9,7 @@
   url: "https://doi.org/10.1016/j.slast.2023.06.002"
 
 - title: "Laser-etched grooves for rapid fluid delivery for a paper-based chemiresistive biosensor"
-  authors: "S Modha, Y Shen, H Chamouni, A Mulchandani, H Tsutsui"
+  authors: "S Modha, Y Shen, H Chamouni, A Mulchandani, and H Tsutsui"
   venue: "Biosensors and Bioelectronics"
   year: 2021
   volume: 180
@@ -17,3 +17,23 @@
   page: 113090
   doi: "10.1016/j.bios.2021.113090"
   url: "https://doi.org/10.1016/j.bios.2021.113090"
+
+  - title: "Emerging technologies for monitoring plant health in vivo"
+  authors: "J Roper, J Garcia, and H Tsutsui"
+  venue: "ACS Omega"
+  year: 2021
+  volume: 6
+  issue: 8
+  page: 5101–5107
+  doi: "doi.org/10.1021/acsomega.0c05850"
+  url: "https://doi.org/10.1021/acsomega.0c05850"
+
+  - title: "Recent developments in flow modeling and fluid control for paper-based microfluidic biosensors"
+  authors: "S Modha, C Castro, and H Tsutsui"
+  venue: "Biosensors and Bioelectronics"
+  year: 2021
+  volume: 178
+  issue: 
+  page: 113026
+  doi: "doi.org/10.1016/j.bios.2021.113026."
+  url: "https://doi.org/10.1016/j.bios.2021.113026"
