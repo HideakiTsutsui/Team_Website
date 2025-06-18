@@ -2,6 +2,9 @@
   authors: "CW Liu, H Tsutsui"
   venue: "SLAS technology"
   year: 2023
+  volume: 28
+  issue: 5
+  page: 302-323
   doi: "10.1016/j.slast.2023.06.002"
   url: "https://doi.org/10.1016/j.slast.2023.06.002"
 
@@ -9,5 +12,8 @@
   authors: "S Modha, Y Shen, H Chamouni, A Mulchandani, H Tsutsui"
   venue: "Biosensors and Bioelectronics"
   year: 2021
+  volume: 180
+  issue: 
+  page: 113090
   doi: "10.1016/j.bios.2021.113090"
   url: "https://doi.org/10.1016/j.bios.2021.113090"
