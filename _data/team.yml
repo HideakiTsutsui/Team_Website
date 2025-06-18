@@ -1,0 +1,11 @@
+- name: Dr. Jane Doe
+  role: Principal Investigator
+  image: /assets/images/team/jane.jpg
+  email: jane@example.edu
+  bio: "Jane leads the lab in molecular detection and diagnostics."
+
+- name: John Smith
+  role: PhD Student
+  image: /assets/images/team/john.jpg
+  email: john@example.edu
+  bio: "John is working on portable nucleic acid detection for food safety."
