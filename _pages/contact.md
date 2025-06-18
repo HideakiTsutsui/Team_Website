@@ -18,7 +18,7 @@ USA
 
 ### 📧 Email
 
-[tsutsui&lt at &gtucr.edu](mailto:tsutsui@ucr.edu)
+tsutsui&lt at &gtucr.edu
 # [tsutsui@ucr.edu](mailto:tsutsui@ucr.edu)
 ---
 
