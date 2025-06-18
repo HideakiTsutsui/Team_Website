@@ -8,10 +8,10 @@ layout: single
 ### 📍 Address
 
 **Hideaki Tsutsui, Ph.D.**  
-Department of Mechanical Engineering
-University of California, Riverside
-Bourns Hall A315
-Riverside CA 92521
+Department of Mechanical Engineering  
+University of California, Riverside  
+Bourns Hall A315  
+Riverside CA 92521  
 USA
 
 ---
