@@ -6,5 +6,14 @@ permalink: /publications/
 
 ## Selected Publications
 
-- **Doe, J.**, Smith, J., et al. (2024). *Rapid nucleic acid detection using handheld devices*. _Nature Biotech_.
-- Smith, J., Doe, J. (2023). *Point-of-care diagnostics for environmental pathogens*. _Analytical Chemistry_.
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+
+{% for pub in pubs %}
+- **{{ pub.authors }}** ({{ pub.year }}).  
+  *{{ pub.title }}*. _{{ pub.venue }}_.  
+  {% if pub.doi %}
+    [DOI](https://doi.org/{{ pub.doi }})
+  {% elsif pub.url %}
+    [Link]({{ pub.url }})
+  {% endif %}
+{% endfor %}
