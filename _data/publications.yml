@@ -18,6 +18,7 @@
   doi: "10.1016/j.bios.2021.113090"
   url: "https://doi.org/10.1016/j.bios.2021.113090"
 
+# Entry 
   - title: "Emerging technologies for monitoring plant health in vivo"
   authors: "J Roper, J Garcia, and H Tsutsui"
   venue: "ACS Omega"
@@ -28,6 +29,7 @@
   doi: "doi.org/10.1021/acsomega.0c05850"
   url: "https://doi.org/10.1021/acsomega.0c05850"
 
+# Entry 
   - title: "Recent developments in flow modeling and fluid control for paper-based microfluidic biosensors"
   authors: "S Modha, C Castro, and H Tsutsui"
   venue: "Biosensors and Bioelectronics"
@@ -35,5 +37,38 @@
   volume: 178
   issue: 
   page: 113026
-  doi: "doi.org/10.1016/j.bios.2021.113026."
+  doi: "doi.org/10.1016/j.bios.2021.113026"
   url: "https://doi.org/10.1016/j.bios.2021.113026"
+
+# Entry 
+  - title: "An origami electrical biosensor for multiplexed analyte detection in body fluids"
+  authors: "Y Shen, S Modha, H Tsutsui, and A Mulchandani"
+  venue: "Biosensors and Bioelectronics"
+  year: 2021
+  volume: 171
+  issue: 
+  page: 112721
+  doi: "doi:10.1016/j.bios.2020.112721"
+  url: "https://doi:10.1016/j.bios.2020.112721"
+
+  # Entry 
+  - title: "Modifying wicking speeds in paper-based microfluidic devices by laser-etching"
+  authors: "B Kalish, MK Tan, and H Tsutsui"
+  venue: "Micromachines"
+  year: 2020
+  volume: 11 
+  issue: 8
+  page: 773
+  doi: "doi:10.3390/mi11080773"
+  url: "https://doi:10.3390/mi11080773"
+
+  # Entry 
+  - title: "Hydrodynamic characterization within a spinner flask and a rotary wall vessel for stem cell culture"
+  authors: "M Ghasemian, C Layton, D Nampe, NI zur Nieden, H Tsutsui, and M Princevac"
+  venue: "Biochemical Engineering Journal"
+  year: 2020
+  volume: 157 
+  issue: 
+  page: 107533
+  doi: "doi:10.1016/j.bej.2020.107533"
+  url: "https://doi:10.1016/j.bej.2020.107533"
