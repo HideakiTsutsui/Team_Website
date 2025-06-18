@@ -4,15 +4,20 @@ layout: single
 permalink: /publications/
 ---
 
-## Journal Publications
+## Publications
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign count = pubs | size %}
 
+<ol reversed>
 {% for pub in pubs %}
-- {{ pub.authors }} ({{ pub.year }}). {{ pub.title }}. **_{{ pub.venue }}_**. {{ pub.volume }} ({{ pub.issue }}) {{ pub.page }}.
-  {% if pub.doi %}
-    [DOI](https://doi.org/{{ pub.doi }})
-  {% elsif pub.url %}
-    [Link]({{ pub.url }})
-  {% endif %}
+  <li>
+    {{ pub.authors }} ({{ pub.year }}). {{ pub.title }}. <strong>_{{ pub.venue }}_</strong>. {{ pub.volume }} ({{ pub.issue }}) {{ pub.page }}.
+    {% if pub.doi %}
+      <a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>
+    {% elsif pub.url %}
+      <a href="{{ pub.url }}" target="_blank">Link</a>
+    {% endif %}
+  </li>
 {% endfor %}
+</ol>
