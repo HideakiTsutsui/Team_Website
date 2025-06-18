@@ -4,7 +4,7 @@ layout: single
 permalink: /publications/
 ---
 
-## Publications
+## Journal Publications
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign count = pubs | size %}
