@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Team"
     url: /team/
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Photos"
