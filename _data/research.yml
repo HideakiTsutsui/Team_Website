@@ -1,0 +1,9 @@
+- title: "Portable Pathogen Detection"
+  summary: "Developing handheld devices for real-time pathogen detection."
+  image: /assets/images/projects/pathogen-detector.jpg
+  url: /projects/#portable-pathogen-detection
+
+- title: "Wastewater Surveillance"
+  summary: "Using nucleic acid sensors to monitor environmental health."
+  image: /assets/images/projects/wastewater.jpg
+  url: /projects/#wastewater-surveillance
