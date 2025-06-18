@@ -9,3 +9,9 @@
   image: /assets/images/team/brent_kalish.jpg
   email: brent.kalish@email.ucr.edu
   bio: ""
+
+- name: John Doe
+  role: Ph.D. Student
+  image: /assets/images/team/john_doe.jpg
+  email: 
+  bio: ""
