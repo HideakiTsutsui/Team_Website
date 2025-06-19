@@ -9,5 +9,7 @@ main:
     url: /publications/
   - title: "Photos"
     url: /photos/
+  - title: "Openings"
+    url: /openings/
   - title: "Contact"
     url: /contact/
