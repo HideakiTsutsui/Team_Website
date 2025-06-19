@@ -1,3 +1,16 @@
+- year: 2022
+  events:
+    - title: "2022 Ph.D. Hooding Ceremony, June 4, 2022"
+      images:
+        - path: ../assets/images/events/2022/Commencement2022_1.jpg
+          caption: ""
+    - title: "UCR MEGSA Symposium, May 26, 2022"
+      images:
+        - path: ../assets/images/events/2022/MEGSA2022_1.jpg
+          caption: "Chia-Wei, a winner of DYP Award, gave an invited student presentation."
+        - path: ../assets/images/events/2022/MEGSA2022_2.jpg
+          caption: "Chia-Wei won an Outstanding Teaching Assistant Award for AY2021-22!"
+
 - year: 2020
   events:
     - title: "SLAS 2020 International Conference and Exhibition in San Diego, CA, January 25-29, 2020"
@@ -31,3 +44,227 @@
           caption: ""
         - path: ../assets/images/events/2019/UGRS19_2.jpg
           caption: ""
+
+- year: 2018
+  events:
+    - title: "Aquarium of the Pacific 5K Run, Long Beach, CA, Oct 6, 2018"
+      images:
+        - path: ../assets/images/events/2018/5k2018_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2018/5k2018_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2018/5k2018_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2018/5k2018_4.jpg
+          caption: ""
+    - title: "Group Picture and Lunch, Summer 2018"
+      images:
+        - path: ../assets/images/events/2018/GroupSm2018_1024px.jpg
+          caption: "Back row: Hideaki, Sid, Jianhou, Agustin, Brent; Front row: Carys, Jenna, Jeanette, Alexandra, Rei."
+        - path: ../assets/images/events/2018/GroupLunch_360px.jpg
+          caption: ""
+
+- year: 2017
+  events:
+    - title: "18th Annual UC Systemwide Bioengineering Symposium in Los Angeles, CA, June 28-30, 2017"
+      images:
+        - path: ../assets/images/events/2017/UCBio17_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/UCBio17_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/UCBio17_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/UCBio17_4.jpg
+          caption: ""
+    - title: "2017 Regional Engineering Education Learning Conference in UCR, June 22, 2017"
+      images:
+        - path: ../assets/images/events/2017/REEL17_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/REEL17_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/REEL17_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/REEL17_4.jpg
+          caption: ""
+    - title: "11th Annual UCR Undergraduate Research, Scholarship, Creative Activity Symposium, May 3-4, 2017"
+      images:
+        - path: ../assets/images/events/2017/UGRS17_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/UGRS17_2.jpg
+          caption: ""
+    - title: "IEEE-NEMS Conference in Los Angeles, Apr. 9-12, 2017"
+      images:
+        - path: ../assets/images/events/2017/NEMS17_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2017/NEMS17_2.jpg
+          caption: ""
+
+- year: 2016
+  events:
+    - title: "Celebrating Newly Minted Dr. Castro and Dr. Nampe, December 12, 2016"
+      images:
+        - path: ../assets/images/events/2016/GroupDec2016_360px.jpg
+          caption: ""
+    - title: "Johns Hopkins Center for Talented Youth Bio-Nano Convergence Program in UCR, Sept. 10, 2016"
+      images:
+        - path: ../assets/images/events/2016/CTY16_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/CTY16_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/CTY16_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/CTY16_4.jpg
+          caption: ""
+    - title: "2016 Regional Engineering Education Learning Conference in UCR, June 14-15, 2016"
+      images:
+        - path: ../assets/images/events/2016/REEL2016_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/REEL2016_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/REEL2016_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/REEL2016_4.jpg
+          caption: ""
+    - title: "2016 Commencements, June 11-13, 2016"
+      images:
+        - path: ../assets/images/events/2016/Commencement2016_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/Commencement2016_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/Commencement2016_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/Commencement2016_5.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/Commencement2016_6.jpg
+          caption: ""
+    - title: "Group Picture, Spring 2016"
+      images:
+        - path: ../assets/images/events/2016/GroupSp2016_1024px.jpg
+          caption: "Ronak, Hideaki, Carlos, Daniel, Jessica, Joshua, Karen, Shuyang, James, Brent, and Jenna."
+    - title: "10th Annual UCR Undergraduate Research, Scholarship, Creative Activity Symposium, Apr. 19-20, 2016"
+      images:
+        - path: ../assets/images/events/2016/2016UGRS1.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/2016UGRS2.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/2016UGRS3.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/2016UGRS4.jpg
+          caption: ""
+    - title: "SLAS 2016 International Conference and Exhibition in San Diego, CA, January 23-27, 2016"
+      images:
+        - path: ../assets/images/events/2016/SLAS2016_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/SLAS2016_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/SLAS2016_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2016/SLAS2016_4.jpg
+          caption: ""
+    - title: "Lab Visit by Dr. Richard Echodu of Gulu University, Uganda, January 17, 2016"
+      images:
+        - path: ../assets/images/events/2016/Echodu_1.jpg
+          caption: ""
+
+- year: 2015
+  events:
+    - title: "4th Annual Inland Empire Stem Cell Consortium Symposium in UCR, November 4, 2015"
+      images:
+        - path: ../assets/images/events/2015/IESCC2015_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2015/IESCC2015_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2015/IESCC2015_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2015/IESCC2015_4.jpg
+          caption: ""
+
+- year: 2014
+  events:
+    - title: "UCR SIP Engineering Symposium and MSRIP Research Symposium, August 14-15, 2014"
+      images:
+        - path: ../assets/images/events/2014/MSRIP2014_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/MSRIP2014_2.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/MSRIP2014_3.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/MSRIP2014_4.jpg
+          caption: ""
+    - title: "Group Picture, Summer 2014"
+      images:
+        - path: ../assets/images/events/2014/GroupSm2014_360px.jpg
+          caption: "Hideaki, Chad, Cindy, Ronak, Jessica, Daniel, Carlos, Fernando, Brent, and Ricardo."
+    - title: "15th Annual UC Systemwide Bioengineering Symposium in Irvine, CA, June 18-20, 2014"
+      images:
+        - path: ../assets/images/events/2014/UCBio1.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/UCBio2.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/UCBio3.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/UCBio4.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/UCBio5.jpg
+          caption: ""
+    - title: "UCR 8th Annual Undergraduate Research, Scholarship, Creative Activity Symposium, Apr. 28-29, 2014"
+      images:
+        - path: ../assets/images/events/2014/UGRS1.jpg
+          caption: ""
+        - path: ../assets/images/events/2014/UGRS2.jpg
+          caption: ""
+
+- year: 2013
+  events:
+    - title: "Agricultural Research Connections in Nairobi & Naivaha, Kenya, August 25-30, 2013"
+      images:
+        - path: ../assets/images/events/2013/ARC2.jpg
+          caption: ""
+    - title: "14th UC Systemwide Bioengineering Symposium in La Jolla, CA, June 19-21, 2013"
+      images:
+        - path: ../assets/images/events/2013/UCBio1.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UCBio2.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UCBio3.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UCBio4.jpg
+          caption: ""
+    - title: "ISSCR Annual Meeting in Boston, MA, June 12-15, 2013"
+      images:
+        - path: ../assets/images/events/2013/ISSCR1.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/ISSCR2.jpg
+          caption: ""
+    - title: "7th Annual UCR Undergraduate Research, Scholarship, Creative Activity Symposium, Apr. 29-30, 2013"
+      images:
+        - path: ../assets/images/events/2013/UGRS2.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UGRS3.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UGRS5.jpg
+          caption: ""
+        - path: ../assets/images/events/2013/UGRS6.jpg
+          caption: ""
+
+- year: 2012
+  events:
+    - title: "Group Picture with New Members, Fall 2012"
+      images:
+        - path: ../assets/images/events/2012/GroupFa2012_1024dpi.jpg
+          caption: "Carlos, Brent, John, Jessica, Cindy, Chad, Daniel, and Hideaki."
+    - title: "First Group Picture, Spring 2012"
+      images:
+        - path: ../assets/images/events/2012/GroupSp2012_360dpi.jpg
+          caption: "Hideaki, Chad, Daniel, Carlos and John"
+
+- year: 2011
+  events:
+    - title: "BMES Annual Meeting in Hartford, CT (Oct. 12-15, 2011) & Harvard Univ Visit (Oct. 16, 2011)"
+      images:
+        - path: ../assets/images/events/2011/BMES01.jpg
+          caption: "Hideaki and Carlos at BMES 2011 Annual Meeting."
+    - title: "First Group Picture, Spring 2012"
+      images:
+        - path: ../assets/images/events/2011/Harvard01.jpg
+          caption: "Reunited with former UCLA friends at Harvard. From right: Prof. Chun (U of Pittsburgh), Dr. Lillehoj (UCLA), Dr. Wong (Harvard), Hideaki, Dr. Hur (Harvard), and Carlos."
