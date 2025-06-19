@@ -119,7 +119,7 @@
   events:
     - title: "Celebrating Newly Minted Dr. Castro and Dr. Nampe, December 12, 2016"
       images:
-        - path: ../assets/images/events/2016/GroupDec2016_360px.jpg
+        - path: ../assets/images/events/2016/GroupDec2016_720px.jpg
           caption: ""
     - title: "Johns Hopkins Center for Talented Youth Bio-Nano Convergence Program in UCR, Sept. 10, 2016"
       images:
@@ -209,7 +209,7 @@
           caption: ""
     - title: "Group Picture, Summer 2014"
       images:
-        - path: ../assets/images/events/2014/GroupSm2014_360px.jpg
+        - path: ../assets/images/events/2014/GroupSm2014_1024px.jpg
           caption: "Hideaki, Chad, Cindy, Ronak, Jessica, Daniel, Carlos, Fernando, Brent, and Ricardo."
     - title: "15th Annual UC Systemwide Bioengineering Symposium in Irvine, CA, June 18-20, 2014"
       images:
@@ -271,7 +271,7 @@
           caption: "Carlos, Brent, John, Jessica, Cindy, Chad, Daniel, and Hideaki."
     - title: "First Group Picture, Spring 2012"
       images:
-        - path: ../assets/images/events/2012/GroupSp2012_360dpi.jpg
+        - path: ../assets/images/events/2012/GroupSp2012_720dpi.jpg
           caption: "Hideaki, Chad, Daniel, Carlos and John"
 
 - year: 2011
