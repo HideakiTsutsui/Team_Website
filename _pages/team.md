@@ -48,7 +48,7 @@ permalink: /team/
 
 ### Exchange Students and Visitors
 
-{% assign visitors = site.data.team | where: "status", "alumni" | where: "position", "visitor" | sort: "year_left" | reverse %}
+{% assign undergrads = site.data.team | where: "status", "alumni" | where: "position", "visitor" | sort: "year_left" | reverse %}
 {% for member in visitors %}
 {{ member.name }} *{{ member.role }}* {{ member.year_left }} 
 {% endfor %}
