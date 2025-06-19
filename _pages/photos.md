@@ -1,14 +1,29 @@
 ---
-title: "Photos"
+title: "Photo Gallery"
 layout: single
 permalink: /photos/
-gallery:
-  - image_path: /assets/images/photos/lab1.jpg
-    caption: "Experiment in progress"
-  - image_path: /assets/images/photos/team-retreat.jpg
-    caption: "Team Retreat 2024"
-  - image_path: /assets/images/photos/setup.jpg
-    caption: "Our field-deployable sensor setup"
 ---
 
-{% include gallery.html gallery=page.gallery %}
+## Team Photo Archive
+
+{% assign sorted_photos = site.data.photos | sort: "year" | reverse %}
+
+{% for year_group in sorted_photos %}
+### {{ year_group.year }}
+
+{% for event in year_group.events %}
+#### {{ event.title }}
+
+<div class="gallery">
+  {% for img in event.images %}
+    <figure>
+      <img src="{{ img.path }}" alt="{{ img.caption }}">
+      <figcaption>{{ img.caption }}</figcaption>
+    </figure>
+  {% endfor %}
+</div>
+
+{% endfor %}
+
+---
+{% endfor %}
