@@ -1,3 +1,19 @@
+- year: 2024
+  events:
+    - title: "2024 Ph.D. Hooding Ceremony, June 1, 2024"
+      images:
+        - path: ../assets/images/events/2024/Commencement2024_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2024/Commencement2024_2.jpg
+          caption: ""
+
+- year: 2023
+  events:
+    - title: "2023 Ph.D. Hooding Ceremony, June 3, 2023"
+      images:
+        - path: ../assets/images/events/2023/Commencement2023_1.jpg
+          caption: ""
+
 - year: 2022
   events:
     - title: "2022 Ph.D. Hooding Ceremony, June 4, 2022"
