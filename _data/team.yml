@@ -2,16 +2,447 @@
   role: Principal Investigator
   image: ../assets/images/team/HideakiTsutsui.jpg
   email: tsutsu"at"ucr.edu
+  status: current
+  position: pi
+  year_joined: 2011
   bio: "Hideaki is an Associate Professor of the Department of Mechanical Engineering at the University of California, Riverside. He is also a participating faculty member of the Department of Bioengineering and the UCR Stem Cell Center. He received a B.E. from the University of Tokyo (2001), a M.S. from the University of California, San Diego (2003), and a Ph.D. from the University of California, Los Angeles (2009), all in Mechanical Engineering. He then conducted postdoctoral research during 2009-2011 at the Center for Cell Control and the Mechanical and Aerospace Engineering Department at UCLA. His current research interests include low-cost medical and agricultural biosensors, and macro- and micro-fluidic tools for cell-based biomanufacturing. He is a recipient of a Grand Challenges Explorations Phase I Award from the Bill & Melinda Gates Foundation (2012) and a Faculty Early Career Development Program (CAREER) Award from National Science Foundation (2017). He was named the 2018 Class of Influential Researchers by Industrial & Engineering Chemistry Research. He serves on the editorial board of SLAS Technology."
 
 - name: Dr. Brent Kalish
   role: Postdoctoral Scholar
   image: ../assets/images/team/BrentKalish.jpg
   email: brent.kalish"at"email.ucr.edu
+  status: current
+  position: postdoc
+  year_joined: 2024
+  year_left: 
   bio: "Add your bio"
 
 - name: John Doe
   role: Ph.D. Student
   image: ../assets/images/team/placeholder.jpg
   email: 
+  status: current
+  position: grad
+  year_joined: 2025
+  year_left: 
+  bio: "Add your bio"
+
+- name: Jane Doe
+  role: Ph.D. Student
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: current
+  position: grad
+  year_joined: 2025
+  year_left: 
+  bio: "Add your bio"
+
+- name: Chia-Wei Liu
+  role: Ph.D. ME
+  image: ../assets/images/team/placeholder.jpg
+  email: cliu196"a"ucr.edu
+  status: alumni
+  position: grad
+  year_joined: 2018
+  year_left: 2024
+  bio: "Add your bio"
+
+- name: Jenna Roper
+  role: Ph.D. BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: jrope001"a"ucr.edu
+  status: alumni
+  position: grad
+  year_joined: 2017
+  year_left: 2024
+  bio: "Add your bio"
+
+- name: Carys Layton
+  role: Ph.D. ME
+  image: ../assets/images/team/placeholder.jpg
+  email: clayt001"a"ucr.edu
+  status: alumni
+  position: grad
+  year_joined: 2016
+  year_left: 2024
+  bio: "Add your bio"
+
+- name: Sidharth Modha
+  role: Ph.D. BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: smodh001"a"ucr.edu
+  status: alumni
+  position: grad
+  year_joined: 2016
+  year_left: 2022
+  bio: "Add your bio"
+
+- name: Jianhou Zhang
+  role: MS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2017
+  year_left: 2020
+  bio: "Add your bio"
+
+- name: Brent Kalish
+  role: Ph.D. ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2014
+  year_left: 2019
+  bio: "Add your bio"
+
+- name: Brent Kalish
+  role: MS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2013
+  year_left: 2014
+  bio: "Add your bio"
+
+- name: Daniel Nampe
+  role: Postdoctoral Scholar
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: postdoc
+  year_joined: 2017
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Daniel Nampe
+  role: Ph.D. BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2012
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: Daniel Nampe
+  role: MS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2011
+  year_left: 2012
+  bio: "Add your bio"
+
+- name: Carlos Castro
+  role: Ph.D. ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2011
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: Jessica Wen
+  role: Ph.D. BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: grad
+  year_joined: 2013
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: John Yoo
+  role: BS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2012
+  year_left: 2013
+  bio: "Add your bio"
+
+- name: Veronica Boulos
+  role: BS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2013
+  year_left: 2013
+  bio: "Add your bio"
+
+- name: Brent Kalish
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2012
+  year_left: 2013
+  bio: "Add your bio"
+
+- name: Cindy Rosillo
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2012
+  year_left: 2015
+  bio: "Add your bio"
+
+- name: Chad Beaudette
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2012
+  year_left: 2015
+  bio: "Add your bio"
+
+- name: Mick Tan
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2015
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: Joshua Karam
+  role: BS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2014
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: James Luong
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2015
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Jenna Roper
+  role: BS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2015
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Ronak Joshi
+  role: BS Neuroscience
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2013
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Karen Bohorquez
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2015
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Keith Kuboshima
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2016
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: Agustin Moran Carmona
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2018
+  year_left: 2018
+  bio: "Add your bio"
+
+- name: Rei Tamaoka
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2018
+  year_left: 2018
+  bio: "Add your bio"
+
+- name: Alexandra Rodriguez
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2018
+  year_left: 2019
+  bio: "Add your bio"
+
+- name: Jeanette Valencia
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2018
+  year_left: 2019
+  bio: "Add your bio"
+
+- name: Hussein Chamouni
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2019
+  year_left: 2020
+  bio: "Add your bio"
+
+- name: Christopher Alvarez
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2019
+  year_left: 2020
+  bio: "Add your bio"
+
+- name: Jose Garcia
+  role: BS BIEN
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2019
+  year_left: 2022
+  bio: "Add your bio"
+
+- name: Nicholas Lee
+  role: BS Biology
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2019
+  year_left: 2022
+  bio: "Add your bio"
+
+- name: Crystal Yang
+  role: BS Chemistry
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2022
+  year_left: 2022
+  bio: "Add your bio"
+
+- name: Andrew Pham
+  role: BS Biology
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2022
+  year_left: 2023
+  bio: "Add your bio"
+
+- name: Sean Wurtz
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: undergrad
+  year_joined: 2023
+  year_left: 2024
+  bio: "Add your bio"
+
+- name: Sean Connolly
+  role: CIRM Bridges Intern, California State University San Bernardino
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2021
+  year_left: 2022
+  bio: "Add your bio"
+
+- name: Jianhou Zhang
+  role: GPP-E Exchange Student, Huazhong University of Science and Technology
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2016
+  year_left: 2017
+  bio: "Add your bio"
+
+- name: Shuyang Fang
+  role: GPP-E Exchange Student, Huazhong University of Science and Technology
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2015
+  year_left: 2016
+  bio: "Add your bio"
+
+- name: Maribel Gonzalez
+  role: CIRM Bridges Intern, California State University, San Bernardino 
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2015
+  year_left: 2015
+  bio: "Add your bio"
+
+- name: Ricardo C. Paredes-González
+  role: MSRIP Program, Tecnológico de Monterrey 
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2014
+  year_left: 2014
+  bio: "Add your bio"
+
+- name: Fernando Rivera-Servín de la Mora
+  role: MSRIP Program, Universidad Autónoma de Baja California 
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: visitor
+  year_joined: 2014
+  year_left: 2014
   bio: "Add your bio"
