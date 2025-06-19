@@ -9,7 +9,7 @@ permalink: /research/
 {% for research in site.data.research %}
 ### {{ research.title }}
 
-![{{ research.title }}]({{ research.image }}){: .align-left .feature__image }
+![{{ research.title }}]({{ research.image }}){: .align-left .feature__image }  
 
 {{ research.summary }}
 
