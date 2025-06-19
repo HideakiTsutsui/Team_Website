@@ -14,4 +14,5 @@ permalink: /research/
 {{ research.summary }}
 
 [Learn more]({{ research.url }})
+---
 {% endfor %}
