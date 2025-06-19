@@ -4,44 +4,21 @@ layout: single
 permalink: /team/
 ---
 
-<style>
-.team-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
-.team-member {
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-}
-.team-member img {
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-  flex-shrink: 0;
-}
-</style>
-
 ## Current Members
 
-<div class="team-grid">
-{% assign current_members = site.data.team | where: "status", "current" | sort: "year_joined" %}
-{% for member in current_members %}
-  <div class="team-member">
-    <img src="{{ member.image }}" alt="{{ member.name }}">
-    <div>
-      <strong>{{ member.name }}</strong><br>
-      <em>{{ member.role }}</em><br>
-      {% if member.email %}
-      <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
-      {% endif %}
-      {{ member.bio }}
-    </div>
-  </div>
+{% assign current_members = site.data.team | where: "status", "current" %}
+{% assign sorted_current = current_members | sort: "year_joined" %}
+
+{% for member in sorted_current %}
+### ![{{ member.name }}]({{ member.image }}){: .align-left width="100px" }
+
+**{{ member.name }}**  
+*{{ member.role }}*  
+📧 [{{ member.email }}](mailto:{{ member.email }})  
+{{ member.bio }}
+
+---
 {% endfor %}
-</div>
 
 ## Previous Members
 
