@@ -1,0 +1,33 @@
+- year: 2020
+  events:
+    - title: "SLAS 2020 International Conference and Exhibition in San Diego, CA, January 25-29, 2020"
+      images:
+        - path: ../assets/images/events/2020/SLAS2020_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2020/SLAS2020_2.jpg
+          caption: ""
+
+- year: 2019
+  events:
+    - title: "Group Picture, Summer 2019"
+      images:
+        - path: ../assets/images/events/2019/GroupSm2019_360px.jpg
+          caption: "Back row: Brent, Jianhou, Chia-Wei, Nicholas, Hussein, Hideaki; Front row: Jenna, Carys, Sid, Jose, Christopher."
+    - title: "2019 Ph.D. Hooding Ceremony, June 1, 2019"
+      images:
+        - path: ../assets/images/events/2019/Commencement2019_1.jpg
+          caption: ""
+    - title: "UCR MEGSA Symposium, May 31, 2019"
+      images:
+        - path: ../assets/images/events/2019/MEGSA2019a.jpg
+          caption: "Sid won an Outstanding Research Presentation Award at the MEGSA Research Symposium!"
+        - path: ../assets/images/events/2019/MEGSA2019b.jpg
+          caption: "Carys received a GRMP Fellowship for AY2019-20!"
+        - path: ../assets/images/events/2019/MEGSA2019c.jpg
+          caption: "Brent won an Outstanding Teaching Assistant Award for AY2018-19!"
+    - title: "13th Annual UCR Undergraduate Research, Scholarship, Creativity Activity Symposium, May 14-15, 2019"
+      images:
+        - path: ../assets/images/events/2019/UGRS19_1.jpg
+          caption: ""
+        - path: ../assets/images/events/2019/UGRS19_2.jpg
+          caption: ""
