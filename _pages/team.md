@@ -26,7 +26,7 @@ permalink: /team/
 
 {% assign postdocs = site.data.team | where: "status", "alumni" | where: "position", "postdoc" | sort: "year_left" | reverse %}
 {% for member in postdocs %}
-{{ member.name }}, {{ member.role }}, {{ member.year_left }}  
+{{ member.name }}, {{ member.year_left }}, {{ member.role }} 
 {% endfor %}
 ---
 
@@ -34,7 +34,7 @@ permalink: /team/
 
 {% assign grads = site.data.team | where: "status", "alumni" | where: "position", "grad" | sort: "year_left" | reverse %}
 {% for member in grads %}
-{{ member.name }}, {{ member.role }}, {{ member.year_left }}  
+{{ member.name }}, {{ member.year_left }}, {{ member.role }} 
 {% endfor %}
 ---
 
@@ -42,7 +42,7 @@ permalink: /team/
 
 {% assign undergrads = site.data.team | where: "status", "alumni" | where: "position", "undergrad" | sort: "year_left" | reverse %}
 {% for member in undergrads %}
-{{ member.name }}, {{ member.role }}, {{ member.year_left }} 
+{{ member.name }}, {{ member.year_left }}, {{ member.role }}
 {% endfor %}
 ---
 
@@ -50,5 +50,5 @@ permalink: /team/
 
 {% assign undergrads = site.data.team | where: "status", "alumni" | where: "position", "visitor" | sort: "year_left" | reverse %}
 {% for member in visitors %}
-{{ member.name }} *{{ member.role }}* {{ member.year_left }} 
+{{ member.name }}, {{ member.year_left }}, {{ member.role }}
 {% endfor %}
