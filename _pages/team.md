@@ -6,12 +6,11 @@ permalink: /team/
 
 <style>
 .team-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
 }
 .team-member {
-  flex: 0 0 48%;
   display: flex;
   align-items: flex-start;
   gap: 1rem;
@@ -21,21 +20,23 @@ permalink: /team/
   width: 100px;
   height: 100px;
   object-fit: cover;
+  flex-shrink: 0;
 }
 </style>
 
 ## Current Members
 
 <div class="team-grid">
-{% assign current_members = site.data.team | where: "status", "current" %}
-{% assign sorted_current = current_members | sort: "year_joined" %}
-{% for member in sorted_current %}
+{% assign current_members = site.data.team | where: "status", "current" | sort: "year_joined" %}
+{% for member in current_members %}
   <div class="team-member">
     <img src="{{ member.image }}" alt="{{ member.name }}">
     <div>
       <strong>{{ member.name }}</strong><br>
       <em>{{ member.role }}</em><br>
-      {% if member.email %}<a href="mailto:{{ member.email }}">{{ member.email }}</a><br>{% endif %}
+      {% if member.email %}
+      <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+      {% endif %}
       {{ member.bio }}
     </div>
   </div>
