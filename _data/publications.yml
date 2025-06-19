@@ -25,7 +25,7 @@
   volume: "6"
   issue: "8"
   page: "5101–5107"
-  doi: "doi.org/10.1021/acsomega.0c05850"
+  doi: "10.1021/acsomega.0c05850"
   url: "https://doi.org/10.1021/acsomega.0c05850"
  
 - title: "Recent developments in flow modeling and fluid control for paper-based microfluidic biosensors"
@@ -35,7 +35,7 @@
   volume: "178"
   issue: ""
   page: "113026"
-  doi: "doi.org/10.1016/j.bios.2021.113026"
+  doi: "10.1016/j.bios.2021.113026"
   url: "https://doi.org/10.1016/j.bios.2021.113026"
 
 - title: "An origami electrical biosensor for multiplexed analyte detection in body fluids"
@@ -45,8 +45,8 @@
   volume: "171"
   issue: ""
   page: "112721"
-  doi: "doi:10.1016/j.bios.2020.112721"
-  url: "https://doi:10.1016/j.bios.2020.112721"
+  doi: "10.1016/j.bios.2020.112721"
+  url: "https://doi.10.1016/j.bios.2020.112721"
 
 - title: "Modifying wicking speeds in paper-based microfluidic devices by laser-etching"
   authors: "B Kalish, MK Tan, and H Tsutsui"
@@ -55,8 +55,8 @@
   volume: "11" 
   issue: "8"
   page: "773"
-  doi: "doi:10.3390/mi11080773"
-  url: "https://doi:10.3390/mi11080773"
+  doi: "10.3390/mi11080773"
+  url: "https://doi.10.3390/mi11080773"
  
 - title: "Hydrodynamic characterization within a spinner flask and a rotary wall vessel for stem cell culture"
   authors: "M Ghasemian, C Layton, D Nampe, NI zur Nieden, H Tsutsui, and M Princevac"
@@ -65,5 +65,5 @@
   volume: "157" 
   issue: ""
   page: "107533"
-  doi: "doi:10.1016/j.bej.2020.107533"
-  url: "https://doi:10.1016/j.bej.2020.107533"
+  doi: "10.1016/j.bej.2020.107533"
+  url: "https://doi.10.1016/j.bej.2020.107533"
