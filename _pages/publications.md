@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ## Journal Publications
+> 📌 For the latest publications list, please check [Google Scholar](https://scholar.google.com/citations?user=7BdjDuwAAAAJ).
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign count = pubs | size %}
