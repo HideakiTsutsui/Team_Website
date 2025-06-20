@@ -19,4 +19,4 @@ permalink: /research/
 
 ## Our Sponsors
 
-
+![Our Sponsors](../assets/images/research/Sponsors.png){: .center width="80%" }
