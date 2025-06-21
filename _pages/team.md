@@ -7,19 +7,28 @@ permalink: /team/
 <style>
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
 }
+
 .team-card {
   display: flex;
   align-items: flex-start;
   gap: 1rem;
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  min-width: 0; /* allows text to wrap inside grid column */
 }
+
 .team-card img {
   border-radius: 50%;
   width: 100px;
   height: 100px;
   object-fit: cover;
+  aspect-ratio: 1 / 1;
+  flex-shrink: 0;
 }
 </style>
 
