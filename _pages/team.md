@@ -45,6 +45,9 @@ permalink: /team/
       {% if member.email %}
         📧 <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
       {% endif %}
+      {% if member.cv %}
+        📄 <a href="{{ member.cv }}" target="_blank">CV</a><br>
+      {% endif %}
       {{ member.bio }}
     </div>
   </div>
