@@ -4,21 +4,62 @@ layout: single
 permalink: /team/
 ---
 
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+.team-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.team-card img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+</style>
+
+## Principal Investigator
+
+<div class="team-grid">
+{% assign principal_investigator = site.data.team | where: "status", "PI" | sort: "year_joined" %}
+{% for member in principal_investigator %}
+  <div class="team-card">
+    <img src="{{ member.image }}" alt="{{ member.name }}">
+    <div>
+      <strong>{{ member.name }}</strong><br>
+      <em>{{ member.role }}</em><br>
+      {% if member.email %}
+        📧 <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+      {% endif %}
+      {{ member.bio }}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
 ## Current Members
 
-{% assign current_members = site.data.team | where: "status", "current" %}
-{% assign sorted_current = current_members | sort: "year_joined" %}
-
-{% for member in sorted_current %}
-### ![{{ member.name }}]({{ member.image }}){: .align-left width="100px" }
-
-**{{ member.name }}**  
-*{{ member.role }}*  
-📧 [{{ member.email }}](mailto:{{ member.email }})  
-{{ member.bio }}
-
----
+<div class="team-grid">
+{% assign current_members = site.data.team | where: "status", "current" | sort: "year_joined" %}
+{% for member in current_members %}
+  <div class="team-card">
+    <img src="{{ member.image }}" alt="{{ member.name }}">
+    <div>
+      <strong>{{ member.name }}</strong><br>
+      <em>{{ member.role }}</em><br>
+      {% if member.email %}
+        📧 <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+      {% endif %}
+      {{ member.bio }}
+    </div>
+  </div>
 {% endfor %}
+</div>
 
 ## Previous Members
 
