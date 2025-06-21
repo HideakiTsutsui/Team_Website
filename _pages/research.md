@@ -9,11 +9,14 @@ permalink: /research/
 {% for research in site.data.research %}
 ### {{ research.title }}
 
-![{{ research.title }}]({{ research.image }}){: .align-left .feature__image }  <br/>
+![{{ research.title }}]({{ research.image }}){: style="float: left; margin-right: 1rem; width: 200px;" }
 
 {{ research.summary }}
 
 [Learn more]({{ research.url }})
+
+<div style="clear: both;"></div>
+
 ---
 {% endfor %}
 
