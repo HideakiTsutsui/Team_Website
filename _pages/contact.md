@@ -19,13 +19,13 @@ USA
 
 ### 📧 Email
   
-tsutsui"at"ucr.edu  
+tsutsui@ucr.edu  
 
 ---
 
 ### ☎ Phone
 
-(+1) 951-827-2444
++1 (951) 827-2444
 
 ---
 
